@@ -39,5 +39,5 @@ Códigos com os conceitos básicos da  linguagem de programação Java.
 <kbd>números aleatórios</kbd> <kbd>random</kbd> <kbd>operador ternário (<variável> = (condição) ? <valor1> : <valor2>)</kbd> <kbd>label blocks</kbd> <kbd>break</kbd> <kbd>continue</kbd>
 
 ---
-[**```Orientação a objetos```**](src/JavaOO)  
+[**```Orientação a objetos```**](src/JavaOO.java)  
 <kbd>classes</kbd> <kbd>construtores</kbd> <kbd>métodos</kbd> <kbd>argumentos</kbd> <kbd>atributos</kbd> <kbd>objetosw</kbd> <kbd>interface</kbd> <kbd>implements</kbd> <kbd>@Override</kbd> <kbd>instâncias</kbd> <kbd>herança</kbd> <kbd>polimorfismo</kbd> <kbd>encapsulamento</kbd> <kbd>str.format</kbd>
