@@ -11,7 +11,7 @@ Códigos com os conceitos básicos da  linguagem de programação Java.
 <kbd>import</kbd> <kbd>Scanner</kbd> <kbd>next</kbd> <kbd>nextInt</kbd> <kbd>nextFloat</kbd> <kbd>nextLong</kbd> <kbd>nextDouble</kbd> <kbd>nextShort</kbd> <kbd>nextByte</kbd> <kbd>nextBoolean</kbd>
 
 ---
-[**```Condicionais e de repetições```**](src/ifForWhile.java)  
+[**```Estruturas condicionais e de repetição```**](src/ifForWhile.java)  
 <kbd>if/else</kbd> <kbd>for</kbd> <kbd>while</kbd> <kbd>do-while</kbd> <kbd>for-each</kbd> <kbd>for aninhado</kbd> <kbd>for e matrizes</kbd>
 
 ---
